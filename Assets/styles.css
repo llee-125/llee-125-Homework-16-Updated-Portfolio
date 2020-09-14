@@ -1,0 +1,87 @@
+body {
+  background-color: linen;
+  padding-top: 0px;
+}
+
+h1 {
+  font-style: oblique;
+  font-family: monospace;
+  color: royalblue;
+  text-align: center;
+}
+
+h6 {
+  font-size: 15px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+.carousel-inner {
+  image-rendering: optimizeQuality;
+  margin-left: 300px;
+}
+.title-color {
+  color: blue;
+}
+
+p.card-text {
+  text-align: center;
+}
+
+div.card.mb-3 {
+  margin-left: 125px;
+}
+
+small.text-muted {
+  align-self: center;
+}
+a {
+  color: blue;
+}
+
+a:hover {
+  background-color: lightskyblue;
+}
+
+a:active {
+  background-color: lightcoral;
+}
+
+.button {
+  background-color: chocolate;
+  color: blue;
+}
+
+.button {
+  background-color: darkkhaki;
+  color: red;
+}
+
+.navbar-fixed-bottom {
+  text-align: center;
+}
+
+.navbar-brand {
+  color: steelblue;
+  font-family: cursive;
+  font-size: 40px;
+  text-decoration-style: double;
+  margin-left: 550px;
+  margin-bottom: 200px;
+}
+
+.navbar-nav {
+  margin-left: 30%;
+}
+
+.card-body {
+  background-color: lightsteelblue;
+}
+
+div.row.mx-lg-n5,
+main.col-sm-9.px-lg-5.border.bg-light {
+  background-color: lightsteelblue;
+}
+
+.div.row {
+  background-color: steelblue;
+}
